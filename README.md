@@ -1,3 +1,3 @@
 # first1
-my first repository
+my first repository.
 Author-ashish
